@@ -77,8 +77,7 @@ all built with the same base image from Canonical and receive the same security
 updates. The most important difference is the BOSH agent placed inside the
 stemcell, which has compatibility considerations with the BOSH director.
 
-**How is a stemcell is built and how one would go about building their own
-stemcell?**
+**How are stemcells built and how should I go about building my own?**
 
 The code lives on GitHub at
 https://github.com/cloudfoundry/bosh-linux-stemcell-builder. Building a stemcell
